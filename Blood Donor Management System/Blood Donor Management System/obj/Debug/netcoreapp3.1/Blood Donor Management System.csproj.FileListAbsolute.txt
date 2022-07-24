@@ -1,0 +1,22 @@
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\bin\Debug\netcoreapp3.1\Blood Donor Management System.exe
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\bin\Debug\netcoreapp3.1\Blood Donor Management System.deps.json
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\bin\Debug\netcoreapp3.1\Blood Donor Management System.runtimeconfig.json
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\bin\Debug\netcoreapp3.1\Blood Donor Management System.runtimeconfig.dev.json
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\bin\Debug\netcoreapp3.1\Blood Donor Management System.dll
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\bin\Debug\netcoreapp3.1\Blood Donor Management System.pdb
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\Blood Donor Management System.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\loginscreen.g.cs
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\Blood Donor Management System_MarkupCompile.cache
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\Blood Donor Management System_MarkupCompile.lref
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\loginscreen.baml
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\Blood Donor Management System.g.resources
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\Blood Donor Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\Blood Donor Management System.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\Blood Donor Management System.AssemblyInfo.cs
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\Blood Donor Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\Blood Donor Management System.dll
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\Blood Donor Management System.pdb
+C:\Users\HP\Desktop\EAD3\Blood-Donor-Management-System\Blood Donor Management System\Blood Donor Management System\obj\Debug\netcoreapp3.1\Blood Donor Management System.genruntimeconfig.cache
